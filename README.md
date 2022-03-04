@@ -15,6 +15,10 @@
 
 ***
 
+[.vimrc配置教程](http://pjmcode.top/)
+
+---
+
 ## 更新日志：
 
 #### update on 2022.3.4
@@ -23,7 +27,7 @@
 
 2.homework_1新增Linux系统接口练习.doc
 
-3.添加vim的配置文件.vimrc [配置使用教程](http:pjmcode.top/)
+3.添加vim的配置文件.vimrc
 ```
 
 #### update on 2022.3.1

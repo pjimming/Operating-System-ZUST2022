@@ -22,6 +22,8 @@
 1.homework_1新增shell文件（详情见homework/homework_1/exercise）
 
 2.homework_1新增Linux系统接口练习.doc
+
+3.添加vim的配置文件.vimrc [配置使用教程](http:pjmcode.top/)
 ```
 
 #### update on 2022.3.1

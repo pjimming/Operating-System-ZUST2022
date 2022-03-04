@@ -15,7 +15,9 @@
 
 ***
 
-[.vimrc配置教程](http://pjmcode.top/)
+### tutorial
+
+- [.vimrc配置教程](https://pjmcode.top/article/detail/7/)
 
 ---
 

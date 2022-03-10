@@ -15,13 +15,30 @@
 
 ***
 
-### tutorial
+### Tutorial
 
-- [.vimrc配置教程](https://pjmcode.top/article/detail/7/)
+- [Linux中.vimrc配置教程](https://pjmcode.top/article/detail/7/)
 
 ---
 
 ## 更新日志：
+
+#### update on 2022.3.10
+```
+1.新增 static/，用于存放配置文件
+
+2.移动 .vimrc 至 static/ 目录下
+
+3.新增配置文件 .tmux.conf  .bashrc
+```
+
+
+#### update on 2022.3.8
+```
+1.祝天下女性国际劳动妇女节节日快乐
+
+2.添加homework_2
+```
 
 #### update on 2022.3.4
 ```

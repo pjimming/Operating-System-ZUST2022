@@ -30,6 +30,8 @@
 2.移动 .vimrc 至 static/ 目录下
 
 3.新增配置文件 .tmux.conf  .bashrc
+
+4.修改Linux接口练习.doc的错误一处
 ```
 
 

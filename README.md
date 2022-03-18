@@ -23,6 +23,11 @@
 
 ## 更新日志：
 
+#### update on 2022.3.18
+```
+1.修改 homework/ 目录结构
+```
+
 #### update on 2022.3.15
 ```
 1.修改 /homework/homework_2/execl.c

@@ -17,7 +17,7 @@
 
 ### Tutorial
 
-- [Linux中.vimrc配置教程](https://pjmcode.top/article/detail/7/)
+- [Linux中.vimrc配置教程](https://pjimming.github.io/PJM-Wiki/linux/tmux_and_vim/)
 
 ---
 

@@ -60,4 +60,4 @@ void main(int argc, char **argv)
 ```
 
 #### 编译运行：
-![](./img/work_3.png)
+![](/homework/homework_5/img/work_3.png)

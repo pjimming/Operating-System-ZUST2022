@@ -86,8 +86,8 @@ void main()
 ```
 
 #### 编译：
-![](./img/work2%E7%BC%96%E8%AF%91.png)
+![](/homework/homework_5/img/work2%E7%BC%96%E8%AF%91.png)
 
 #### 运行结果：
 
-![运行结果](./img/work_2.png)
+![运行结果](/homework/homework_5/img/work_2.png)

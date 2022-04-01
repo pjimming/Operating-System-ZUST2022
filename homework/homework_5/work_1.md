@@ -7,7 +7,7 @@ send(i, m):
 begin
 	P(buffempty[i]);
 	buff[i].push(m);
-    V(buffull[i]);
+	V(buffull[i]);
 end
 
 receive(i, m):

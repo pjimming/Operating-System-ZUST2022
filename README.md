@@ -4,6 +4,7 @@
 
 ### 使用前阅读须知：
 
+#### 所有作业内容都写于每个`homework/`文件夹内的`.md`文件。
 
 #### 本项目是为了帮助同学们更好的学习操作系统原理。若此项目对您有帮助，请（☆Star）此项目。您的支持是对创作者最大的鼓励。
 
@@ -17,11 +18,20 @@
 
 ### Tutorial
 
-- [Linux中.vimrc配置教程](https://pjimming.github.io/PJM-Wiki/linux/tmux_and_vim/)
+- [Linux教程](https://wiki.pjmcode.top/linux/first_work/)
 
 ---
 
 ## 更新日志：
+
+#### update on 2022.4.5
+```
+1.清明安康。
+
+2.人民英雄永垂不朽！
+
+3.添加homework_7
+```
 
 #### update on 2022.4.1
 ```

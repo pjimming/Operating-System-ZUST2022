@@ -1,5 +1,7 @@
 # 浙江科技学院-操作系统原理-2022
 
+[我的个人主页 | pjmcode.top](https://pjmcode.top)
+
 ***
 
 ### 使用前阅读须知：
@@ -29,6 +31,8 @@
 1.添加homework_11/work_2
 
 2.添加homework_11/work_1 部分注释
+
+3.添加个人主页
 ```
 
 #### update on 2022.5.6

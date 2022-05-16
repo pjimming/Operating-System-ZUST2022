@@ -135,9 +135,11 @@ gcc e2_1.c -o e2_1 -lpthread
 
 ### 运行结果
 - 结果1
+
     ![img1](./img/pthread1.png)
 
 - 结果2
+
     ![img2](./img/pthread2.png)
 
 - 总结：

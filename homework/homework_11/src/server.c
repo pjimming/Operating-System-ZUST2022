@@ -45,9 +45,9 @@ void main()
     struct msg_st data;
     int pid, *p;
 
-    // for (int i = 0; i < 20; i++)
-    //     signal(i, cleanup);
-    signal(SIGINT, cleanup); // 监听软中断
+    for (int i = 0; i < 20; i++)
+        signal(i, cleanup);
+    // signal(SIGINT, cleanup); // 监听软中断
 
     // 创建消息队列
     msgid = msgget(MSGKEY, 0666 | IPC_CREAT);
